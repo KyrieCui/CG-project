@@ -1,0 +1,111 @@
+﻿  Camera.cpp
+d:\网站代码\opengldn网站代码\95\95 代码\project\camera.cpp(52): warning C4244: “=”: 从“genType”转换到“float”，可能丢失数据
+          with
+          [
+              genType=double
+          ]
+d:\网站代码\opengldn网站代码\95\95 代码\project\camera.cpp(59): warning C4244: “=”: 从“genType”转换到“float”，可能丢失数据
+          with
+          [
+              genType=double
+          ]
+  Graphic.cpp
+d:\网站代码\opengldn网站代码\95\95 代码\project\shader.h(7): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+d:\网站代码\opengldn网站代码\95\95 代码\project\graphic.cpp(260): warning C4305: “初始化”: 从“double”到“float”截断
+d:\网站代码\opengldn网站代码\95\95 代码\project\graphic.cpp(263): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  Particle.cpp
+d:\网站代码\opengldn网站代码\95\95 代码\project\shader.h(7): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+d:\网站代码\opengldn网站代码\95\95 代码\project\particle.cpp(43): warning C4018: “<”: 有符号/无符号不匹配
+d:\网站代码\opengldn网站代码\95\95 代码\project\particle.cpp(55): warning C4244: “=”: 从“int”转换到“GLfloat”，可能丢失数据
+d:\网站代码\opengldn网站代码\95\95 代码\project\particle.cpp(57): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\网站代码\opengldn网站代码\95\95 代码\project\particle.cpp(58): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\网站代码\opengldn网站代码\95\95 代码\project\particle.cpp(59): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\网站代码\opengldn网站代码\95\95 代码\project\particle.cpp(63): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\网站代码\opengldn网站代码\95\95 代码\project\particle.cpp(64): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\网站代码\opengldn网站代码\95\95 代码\project\particle.cpp(65): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\网站代码\opengldn网站代码\95\95 代码\project\particle.cpp(71): warning C4244: “=”: 从“int”转换到“GLfloat”，可能丢失数据
+d:\网站代码\opengldn网站代码\95\95 代码\project\particle.cpp(79): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\网站代码\opengldn网站代码\95\95 代码\project\particle.cpp(80): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\网站代码\opengldn网站代码\95\95 代码\project\particle.cpp(81): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\网站代码\opengldn网站代码\95\95 代码\project\particle.cpp(85): warning C4305: “=”: 从“double”到“float”截断
+d:\网站代码\opengldn网站代码\95\95 代码\project\particle.cpp(94): warning C4305: “参数”: 从“double”到“float”截断
+d:\网站代码\opengldn网站代码\95\95 代码\project\particle.cpp(100): warning C4018: “<”: 有符号/无符号不匹配
+d:\网站代码\opengldn网站代码\95\95 代码\project\particle.cpp(119): warning C4018: “<”: 有符号/无符号不匹配
+d:\网站代码\opengldn网站代码\95\95 代码\project\particle.cpp(128): warning C4244: “-=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\网站代码\opengldn网站代码\95\95 代码\project\particle.cpp(145): warning C4018: “<”: 有符号/无符号不匹配
+d:\网站代码\opengldn网站代码\95\95 代码\project\particle.cpp(159): warning C4244: “-=”: 从“double”转换到“GLfloat”，可能丢失数据
+  project.cpp
+d:\网站代码\opengldn网站代码\95\95 代码\project\shader.h(7): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  ResourceManager.cpp
+d:\网站代码\opengldn网站代码\95\95 代码\project\shader.h(7): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  Shader.cpp
+d:\网站代码\opengldn网站代码\95\95 代码\project\shader.h(7): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  Texture2D.cpp
+  正在生成代码...
+Graphic.obj : error LNK2001: 无法解析的外部符号 __imp___glewActiveTexture
+Particle.obj : error LNK2001: 无法解析的外部符号 __imp___glewActiveTexture
+Graphic.obj : error LNK2001: 无法解析的外部符号 __imp___glewBindBuffer
+Particle.obj : error LNK2001: 无法解析的外部符号 __imp___glewBindBuffer
+Graphic.obj : error LNK2001: 无法解析的外部符号 __imp___glewBufferData
+Particle.obj : error LNK2001: 无法解析的外部符号 __imp___glewBufferData
+Graphic.obj : error LNK2001: 无法解析的外部符号 __imp___glewGenBuffers
+Particle.obj : error LNK2001: 无法解析的外部符号 __imp___glewGenBuffers
+Graphic.obj : error LNK2001: 无法解析的外部符号 __imp___glewEnableVertexAttribArray
+Particle.obj : error LNK2001: 无法解析的外部符号 __imp___glewEnableVertexAttribArray
+Graphic.obj : error LNK2001: 无法解析的外部符号 __imp___glewUseProgram
+Particle.obj : error LNK2001: 无法解析的外部符号 __imp___glewUseProgram
+project.obj : error LNK2001: 无法解析的外部符号 __imp___glewUseProgram
+Shader.obj : error LNK2001: 无法解析的外部符号 __imp___glewUseProgram
+Graphic.obj : error LNK2001: 无法解析的外部符号 __imp___glewVertexAttribPointer
+Particle.obj : error LNK2001: 无法解析的外部符号 __imp___glewVertexAttribPointer
+Graphic.obj : error LNK2001: 无法解析的外部符号 __imp___glewBindVertexArray
+Particle.obj : error LNK2001: 无法解析的外部符号 __imp___glewBindVertexArray
+Graphic.obj : error LNK2001: 无法解析的外部符号 __imp___glewDeleteVertexArrays
+Graphic.obj : error LNK2001: 无法解析的外部符号 __imp___glewGenVertexArrays
+Particle.obj : error LNK2001: 无法解析的外部符号 __imp___glewGenVertexArrays
+project.obj : error LNK2019: 无法解析的外部符号 __imp_glewInit，该符号在函数 main 中被引用
+project.obj : error LNK2019: 无法解析的外部符号 __imp_glewGetString，该符号在函数 main 中被引用
+project.obj : error LNK2019: 无法解析的外部符号 __imp___glutInitWithExit，该符号在函数 glutInit_ATEXIT_HACK 中被引用
+project.obj : error LNK2019: 无法解析的外部符号 __imp_glutInitDisplayMode，该符号在函数 main 中被引用
+project.obj : error LNK2019: 无法解析的外部符号 __imp_glutInitWindowPosition，该符号在函数 main 中被引用
+project.obj : error LNK2019: 无法解析的外部符号 __imp_glutInitWindowSize，该符号在函数 main 中被引用
+project.obj : error LNK2019: 无法解析的外部符号 __imp_glutMainLoop，该符号在函数 main 中被引用
+project.obj : error LNK2019: 无法解析的外部符号 __imp___glutCreateWindowWithExit，该符号在函数 glutCreateWindow_ATEXIT_HACK 中被引用
+project.obj : error LNK2019: 无法解析的外部符号 __imp_glutPostRedisplay，该符号在函数 "void __cdecl IdleEvent(void)" (?IdleEvent@@YAXXZ) 中被引用
+project.obj : error LNK2019: 无法解析的外部符号 __imp_glutSwapBuffers，该符号在函数 "void __cdecl display(void)" (?display@@YAXXZ) 中被引用
+project.obj : error LNK2019: 无法解析的外部符号 __imp___glutCreateMenuWithExit，该符号在函数 glutCreateMenu_ATEXIT_HACK 中被引用
+project.obj : error LNK2019: 无法解析的外部符号 __imp_glutAddMenuEntry，该符号在函数 main 中被引用
+project.obj : error LNK2019: 无法解析的外部符号 __imp_glutAttachMenu，该符号在函数 main 中被引用
+project.obj : error LNK2019: 无法解析的外部符号 __imp_glutDisplayFunc，该符号在函数 main 中被引用
+project.obj : error LNK2019: 无法解析的外部符号 __imp_glutReshapeFunc，该符号在函数 main 中被引用
+project.obj : error LNK2019: 无法解析的外部符号 __imp_glutKeyboardFunc，该符号在函数 main 中被引用
+project.obj : error LNK2019: 无法解析的外部符号 __imp_glutMouseFunc，该符号在函数 main 中被引用
+project.obj : error LNK2019: 无法解析的外部符号 __imp_glutMotionFunc，该符号在函数 main 中被引用
+project.obj : error LNK2019: 无法解析的外部符号 __imp_glutEntryFunc，该符号在函数 main 中被引用
+project.obj : error LNK2019: 无法解析的外部符号 __imp_glutIdleFunc，该符号在函数 main 中被引用
+project.obj : error LNK2001: 无法解析的外部符号 __imp_glewExperimental
+ResourceManager.obj : error LNK2019: 无法解析的外部符号 SOIL_load_image，该符号在函数 "private: static class Texture2D __cdecl ResourceManager::loadTextureFromFile(char const *,unsigned char)" (?loadTextureFromFile@ResourceManager@@CA?AVTexture2D@@PEBDE@Z) 中被引用
+ResourceManager.obj : error LNK2019: 无法解析的外部符号 SOIL_free_image_data，该符号在函数 "private: static class Texture2D __cdecl ResourceManager::loadTextureFromFile(char const *,unsigned char)" (?loadTextureFromFile@ResourceManager@@CA?AVTexture2D@@PEBDE@Z) 中被引用
+ResourceManager.obj : error LNK2001: 无法解析的外部符号 __imp___glewDeleteProgram
+Shader.obj : error LNK2001: 无法解析的外部符号 __imp___glewAttachShader
+Shader.obj : error LNK2001: 无法解析的外部符号 __imp___glewCompileShader
+Shader.obj : error LNK2001: 无法解析的外部符号 __imp___glewCreateProgram
+Shader.obj : error LNK2001: 无法解析的外部符号 __imp___glewCreateShader
+Shader.obj : error LNK2001: 无法解析的外部符号 __imp___glewDeleteShader
+Shader.obj : error LNK2001: 无法解析的外部符号 __imp___glewGetProgramInfoLog
+Shader.obj : error LNK2001: 无法解析的外部符号 __imp___glewGetProgramiv
+Shader.obj : error LNK2001: 无法解析的外部符号 __imp___glewGetShaderInfoLog
+Shader.obj : error LNK2001: 无法解析的外部符号 __imp___glewGetShaderiv
+Shader.obj : error LNK2001: 无法解析的外部符号 __imp___glewGetUniformLocation
+Shader.obj : error LNK2001: 无法解析的外部符号 __imp___glewLinkProgram
+Shader.obj : error LNK2001: 无法解析的外部符号 __imp___glewShaderSource
+Shader.obj : error LNK2001: 无法解析的外部符号 __imp___glewUniform1f
+Shader.obj : error LNK2001: 无法解析的外部符号 __imp___glewUniform1i
+Shader.obj : error LNK2001: 无法解析的外部符号 __imp___glewUniform2f
+Shader.obj : error LNK2001: 无法解析的外部符号 __imp___glewUniform3f
+Shader.obj : error LNK2001: 无法解析的外部符号 __imp___glewUniform4f
+Shader.obj : error LNK2001: 无法解析的外部符号 __imp___glewUniformMatrix4fv
+glut32.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+glew32.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+soil2-debug.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+D:\网站代码\opengldn网站代码\95\95 代码\x64\Debug\project.exe : fatal error LNK1120: 52 个无法解析的外部命令
